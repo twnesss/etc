@@ -1,0 +1,7 @@
+id=Etc
+name=Etc For You
+version=v1.0
+versionCode=20241005
+author=taamarin.t.me
+description=Fix your android battery drain by optimization.
+updateJson=https://raw.githubusercontent.com/twnesss/etc/refs/heads/main/update.json
